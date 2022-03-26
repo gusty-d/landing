@@ -1,6 +1,6 @@
 body {
     font-family: monospace;
-    background-color: #161d27;
+    margin: 0;
 }
 
 ul {
@@ -48,9 +48,9 @@ ul {
 .first {
     display: flex;
     flex-direction: column;
-    margin-left: 100px;
-    margin-right: 100px;
-    padding: 20px;
+    padding: 20px 200px 80px;
+    background-color: #161d27;
+    flex-grow: 1;
 }
 
 button {
