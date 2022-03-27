@@ -5,9 +5,12 @@ body {
 
 ul {
     list-style-type: none;
-    display: flex;
     padding: 0;
     margin: 0;
+}
+
+.header-links ul {
+    display: flex;
     gap: 5px;
 }
 
@@ -49,7 +52,7 @@ ul {
     display: flex;
     flex-direction: column;
     padding: 20px 200px 80px;
-    background-color: #161d27;
+    background-color: #1f2937;
     flex-grow: 1;
 }
 
@@ -62,7 +65,29 @@ button {
     border: 0;
 }
 
-img {
+.right img {
     width: 333px;
     height: 252px;
+}
+
+.info {
+    font-size: 36px;
+    font-weight: 800;
+    color:#1f2937;
+}
+
+.second {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 40px;
+}
+
+.projetos ul {
+    display: flex;
+    gap: 30px;
+}
+
+.subtexto {
+    text-align: center;
 }
