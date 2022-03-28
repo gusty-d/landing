@@ -112,3 +112,24 @@ button {
     width: 200px;
     height: 200px;
 }
+
+.frase {
+    display: flex;
+    flex-direction: column;
+    gap: 5px;
+    background-color: #E5E7EB;
+    margin-top: 240px;
+    margin-bottom: 200px;
+}
+
+.quote {
+    font-size: 36px;
+    color: #1f2937;
+    font-weight: 300;
+}
+
+.signature {
+    align-self: flex-end;
+    font-weight: bold;
+    font-size: 16px;
+}
