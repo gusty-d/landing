@@ -133,6 +133,16 @@ button {
     font-size: 16px;
 }
 
+.call-action {
+    background-color: #3882F6;
+    color: #E5E7EB;
+    width: 80%;
+}
+
+.action-main {
+    font-size: 24px;
+}
+
 .footer {
     display: flex;
     width: 100%;
