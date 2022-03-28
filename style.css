@@ -1,5 +1,5 @@
 body {
-    font-family: monospace;
+    font-family:'Courier New', Courier, monospace;
     margin: 0;
 }
 
@@ -125,7 +125,6 @@ button {
 .quote {
     font-size: 36px;
     color: #1f2937;
-    font-weight: 300;
 }
 
 .signature {
