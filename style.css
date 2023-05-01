@@ -11,7 +11,7 @@ ul {
 
 .header-links ul {
     display: flex;
-    gap: 5px;
+    gap: 15px;
 }
 
 .logo {
